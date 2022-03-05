@@ -3,7 +3,7 @@
 ## :eyeglasses: Projeto Preview
 
 ![Video preview](https://youtu.be/GJwwuFZGKFg)
-
+[![Curso primeiros passos com a lin](http://img.youtube.com/vi/COgylca8qYw/0.jpg)l(http://www.youtube.com/watch?v=COgylca8qYw"videotes")
 
   Esse sistema foi criado para teste técnico da carupi, desenvolvi um sistema com 2 páginas, home e interna, aonde em um cenário fictício joão consegue ver os jogos mais populares na API Rawg, além de poder, ver detalhes sobre esses jogos, porém coloquei um back-end, junto a um CRUD, para posteriormente o projeto poder ter um lado mais profissional, como um sistema específico para jogos. 
 
