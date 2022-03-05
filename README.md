@@ -2,8 +2,8 @@
 
 ## :eyeglasses: Projeto Preview
 
-![Alt Text](https://giphy.com/embed/Iu7QQw881yOrTWVqeb/giphy.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<iframe src="https://giphy.com/embed/Iu7QQw881yOrTWVqeb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Iu7QQw881yOrTWVqeb">via GIPHY</a></p>
+
 
   Esse sistema foi criado para teste técnico da carupi, desenvolvi um sistema com 2 páginas, home e interna, aonde em um cenário fictício joão consegue ver os jogos mais populares na API Rawg, além de poder, ver detalhes sobre esses jogos, porém coloquei um back-end, junto a um CRUD, para posteriormente o projeto poder ter um lado mais profissional, como um sistema específico para jogos. 
 
