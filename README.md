@@ -2,7 +2,7 @@
 
 ## :eyeglasses: Projeto Preview
 
-![Alt Text](https://s7.gifyu.com/images/20220305_141424.gif)
+![Video preview](https://youtu.be/GJwwuFZGKFg)
 
 
   Esse sistema foi criado para teste técnico da carupi, desenvolvi um sistema com 2 páginas, home e interna, aonde em um cenário fictício joão consegue ver os jogos mais populares na API Rawg, além de poder, ver detalhes sobre esses jogos, porém coloquei um back-end, junto a um CRUD, para posteriormente o projeto poder ter um lado mais profissional, como um sistema específico para jogos. 
