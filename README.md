@@ -41,11 +41,15 @@ do jogo.
 
 ➡️ **Download do projeto**
 ```bash
-git clone 
+git clone https://github.com/josefernandez159/CarupiTest.git
 ```
-➡️ **Acessando a pasta do projeto depois do clone do projeto**
+➡️ **Acessando a pasta do projeto parte front-end depois do clone do projeto**
 ```bash
-cd quiz-cavaleiro-zodiaco
+cd front-end 
+```
+➡️ **Acessando a pasta do projeto parte back-end depois do clone do projeto**
+```bash
+cd backend 
 ```
 
 ➡️ **Instalando Dependências**
@@ -57,13 +61,11 @@ yarn install ou npm install
 yarn start  ou npm start
 ```
 
+// Lembrando que caso queira usar o back-end, terá que inicializalo com npm start na pasta do backend, e também inicializar o front-end, acessando a pasta do front-end e dando npm start.
+
 ## :heavy_check_mark: Passos Concluidos 
 
 -   [x] Consumir api Rawg
 -   [x] Criar todas as funcionalidades
 -   [x] Utilizar hooks, Bootstrap, Axios e create-react-app
 -   [x] Criar adcionais como Banco de dados Back-end, routes, sistema crud(funcional)
-
-## :eyeglasses: Demo em produção
-
-[Link de acesso :dizzy:]()
