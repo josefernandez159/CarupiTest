@@ -1,4 +1,4 @@
-# CarupiTest
+# Carupi
 
 ## :eyeglasses: Projeto Preview
 
