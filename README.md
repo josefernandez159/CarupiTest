@@ -1,11 +1,11 @@
 # Carupi
 
-## :eyeglasses: Projeto Preview
+## :eyeglasses: Project Preview
 
 
 [![VIdeo demonstrativo](https://i.ibb.co/Tch19KV/carupi.png)](https://www.youtube.com/watch?v=GJwwuFZGKFg")
 
-  Esse sistema foi criado para teste técnico da carupi, desenvolvi um sistema com 2 páginas, home e interna, aonde em um cenário fictício joão consegue ver os jogos mais populares na API Rawg, além de poder, ver detalhes sobre esses jogos, porém coloquei um back-end, junto a um CRUD, para posteriormente o projeto poder ter um lado mais profissional, como um sistema específico para jogos. 
+   This system was created for carupi's technical test, I developed a system with 2 pages, home and internal, where in a fictitious scenario joão can see the most popular games in the Rawg API, in addition to being able to see details about these games, but I put a back-end, together with a CRUD, so that the project can later have a more professional side, like a specific system for games.
 
 
 ![Badge](https://img.shields.io/badge/Font%20Awesome-4.7.0-blue?style=for-the-badge&logo=appveyor)
@@ -14,14 +14,14 @@
 ![Badge](https://img.shields.io/badge/react-16.4.0-%23000000?style=for-the-badge&logo=appveyor)
 ![Badge](https://img.shields.io/badge/Bootstrap-4.1.1-%23000000?style=for-the-badge&logo=appveyor)
 
-## :dart: Objetivo
+## :dart: Goal
 
-O objetivo deste projeto é fazer um ambiente fícticio aonde João precisa de um site de jogos com duas páginas (home e interna),
+  The objective of this project is to make a fictitious environment where João needs a game site with two pages (home and internal).
 
-Home: Página com uma listagem dos jogos mais populares.
+Home: Page with a list of the most popular games.
 
-Interna: Ao clicar num jogo da home o usuário deverá ser direcionado para a interna que mostrará o nome do jogo, foto, categorias, plataformas e desenvolvedor
-do jogo.
+Internal: Clicking on a game will show game name, photo, categories, platforms and developer
+about the game.
 
 ## :hammer_and_wrench: Ferramentas
 
@@ -34,42 +34,41 @@ do jogo.
 -   [React.js](https://pt-br.reactjs.org/)
 -   [React router](https://reactrouter.com/)
 
-## :desktop_computer: O que eu solucionei?
+## :desktop_computer: What i solved?
 
-   A ideia do projeto foi inicialmente consumir a API Rawg e mostrar informações de jogos via API, pelo Axios, mas desenvolvi além do pedido ao exercício um banco de dados no Back-end, junto a um CRUD e um sistema de rotas, que pode ser adaptado a um ambiente onde posteriormente possa criar um sistema de login com jogos que o usuário mais gosta, e adicionar, excluir, listar e manipular qualquer dado desse usuário dentro do dashboard, na parte do home, o usuário pode passar o mouse por cima da imagem do jogo e por uma animação será mostrado-lhe informações sobre o jogo.
-	Utilizei Bootstrap para facilitar em alguns estilos do site, mas também produzir uma parte do CSS a mão, com a responsabilidade do site, o Axios foi utilizado tanto no Back como no Front-end, criei o site por meio do React, utilizando o create-react-app, e aproveitei e usei alguns React Hooks para enriquecer e facilitar algumas partes do projeto.
+   The idea of the project was initially to consume the Rawg API and show game information via API, through Axios, but I developed, in addition to the exercise request, a database in the Back-end, together with a CRUD and a route system, which can be adapted to an environment where later you can create a login system with games that the user likes the most, and add, delete, list and manipulate any data from that user within the dashboard, in the home part, the user can hover over the game image and by an animation you will be shown information about the game.
+	I used Bootstrap to facilitate some styles of the site, but also produces a part of the CSS by hand, with the responsibility of the site, Axios was used both in the Back and Front-end, created the site through React, using create -react-app, and I took advantage and used some React Hooks to enrich and facilitate some parts of the project.
 
 
 
-## :rocket: Executando o projeto
+## :rocket: Running the project
 
-➡️ **Download do projeto**
-```bash
+➡️ **Download project**
+```basha
 git clone https://github.com/josefernandez159/CarupiTest.git
 ```
-➡️ **Acessando a pasta do projeto parte front-end depois do clone do projeto**
+➡️ **Accessing the front-end project folder after project clone**
 ```bash
 cd front-end 
 ```
-➡️ **Acessando a pasta do projeto parte back-end depois do clone do projeto**
+➡️ **Accessing the back-end project folder after project clone**
 ```bash
 cd backend 
 ```
 
-➡️ **Instalando Dependências**
+➡️ **install Dep**
 ```bash
-yarn install ou npm install
+yarn install | npm i | pnpm i
 ```
-➡️ **Iniciando o projeto**
+➡️ **Running the project**
 ```bash
-yarn start  ou npm start
+yarn start  | npm start | pnpm start
 ```
 
-// Lembrando que caso queira usar o back-end, terá que inicializalo com npm start na pasta do backend, e também inicializar o front-end, acessando a pasta do front-end e dando npm start.
 
-## :heavy_check_mark: Passos Concluidos 
+## :heavy_check_mark: Steps Donea 
 
--   [x] Consumir api Rawg
--   [x] Criar todas as funcionalidades
--   [x] Utilizar hooks, Bootstrap, Axios e create-react-app
--   [x] Criar adcionais como Banco de dados Back-end, routes, sistema crud(funcional)
+- [x] Consume Rawg api
+- [x] Create all features
+- [x] Use hooks, Bootstrap, Axios and create-react-app
+- [x] Create additionals like Back-end Database, routes, crud system(functional) aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
