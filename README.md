@@ -66,9 +66,9 @@ yarn start  | npm start | pnpm start
 ```
 
 
-## :heavy_check_mark: Steps Donea 
+## :heavy_check_mark: Steps Done
 
 - [x] Consume Rawg api
 - [x] Create all features
 - [x] Use hooks, Bootstrap, Axios and create-react-app
-- [x] Create additionals like Back-end Database, routes, crud system(functional) aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- [x] Create additionals like Back-end Database, routes, crud system(functional) 
